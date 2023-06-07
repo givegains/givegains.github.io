@@ -1,6 +1,6 @@
-baseURL: https://opensource.twitter.dev/
+baseURL: https://givegains.org/
 languageCode: en-us
-title: Twitter Open Source
+title: GiveGains
 
 # disable taxonomy pages
 taxonomies: []
@@ -21,12 +21,17 @@ markup:
 menu:
   main:
   # individual pages are added to menu in their front matter
-  - identifier: blog
-    name: Blog
-    url: https://blog.twitter.com/engineering/en_us/topics/open-source
+  - identifier: contactus
+    name: Contact Us
+    url: mailto:furies.bogey07@icloud.com
     rel: noopener
     weight: 10
-  - identifier: github
-    name: GitHub
-    url: https://github.com/twitter
-    weight: 20
+#   - identifier: blog
+#     name: Blog
+#     url: https://blog.twitter.com/engineering/en_us/topics/open-source
+#     rel: noopener
+#     weight: 10
+#   - identifier: github
+#     name: GitHub
+#     url: https://github.com/twitter
+#     weight: 20
