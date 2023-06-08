@@ -23,7 +23,7 @@ menu:
   # individual pages are added to menu in their front matter
   - identifier: contactus
     name: Contact Us
-    url: mailto:furies.bogey07@icloud.com
+    url: mailto:info@givegains.org
     rel: noopener
     weight: 10
 #   - identifier: blog
